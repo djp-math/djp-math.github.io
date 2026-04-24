@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 /* the minimal site theme has gray for the text which I really don't like*/
+/* also the default zoom level on my computer makes the font seem low resolution, making it 15px instead of 14px made it easier to read */
 body {
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000000;
 }

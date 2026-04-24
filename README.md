@@ -34,6 +34,7 @@ My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson 
 - "Calculating the Stationary Distribution of a Markov Chain by Decomposing its Set of Global Balance Equations," joint work with Brian Fralix
 
   Joint Mathematics Meetings 2025, Seattle, January 8-11
+  
 ## Contributed Talks
 - "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications," joint work with Brian Fralix
 

@@ -1,0 +1,7 @@
+One issue with links is that they expand which moves the text around. I could either disable the expanding, 
+or I could make it so that links are on their own lines,
+or I could just hard code any links so that they when they expand, they don't move text to the next line
+
+(Probably best to just get rid of the expanding)
+
+Another issue is the picture of me I think makes the site take a long time to load

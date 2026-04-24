@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* the minimal site theme has gray for the text which I really don't like*/
+body {
+  color: #000000;
+}

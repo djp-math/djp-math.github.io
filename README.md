@@ -5,7 +5,7 @@ My name is David James Pittman Jr., and I am currently working on a Ph.D. in the
 My research area is stochastic processes. My current focus is on Polya urns, Polya urn processes, and generalized Polya processes.
 I have also done some work with matrix-analytic methods on Markov chains, particularly the random product technique developed by Patrick Buckingham and Brian Fralix.
 
-To contact me, please email me at djpittm@clemson.edu. (I'm not sure if clicking this link does anything?)
+To contact me, please email me at djpittm@clemson.edu.
 
 # Educational Background
 

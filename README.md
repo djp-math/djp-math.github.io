@@ -7,6 +7,8 @@ I have also done some work with matrix-analytic methods on Markov chains, partic
 
 To contact me, please email me at djpittm@clemson.edu.
 
+This is a link to another page: [click here]{https://djp-math.github.io/page.html}.
+
 # Educational Background
 
 - B.S., Mathematics, Bob Jones University 2021

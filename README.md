@@ -7,12 +7,12 @@ My Clemson Profile page may be found [here](https://www.clemson.edu/science/acad
 My research area is broadly in stochastic processes. My current focus is on Pólya Urns, Pólya Urn Processes, and Generalized Pólya Processes.
 I have also done some work with matrix-analytic methods in the theory of Markov chains, particularly using the random product technique developed by Patrick Buckingham and Brian Fralix.
 
-To contact me, please email me at djpittm@clemson.edu.
+You can contact me by emailing me at djpittm@clemson.edu.
 
 
 [comment]: # (This is an example of a link to another HTML page which does work. '''This is a link to another page: left-bracket click here right-bracket left-parenthesis https://djp-math.github.io/page.html right-parenthesis.''')
 
-This is a link to another page, written in Markdown: [click here](./page2.html)
+[comment]: # (To make a page in Markdown, make the file a md file but link to an html file. Linking directly to an md file doesn't seem to work. Directly linking to html files does work. An example, where the original file is page2.md : '''This is a link to another page, written in Markdown: left-bracket click here right-bracket left-parenthesis ./page2.html right-parenthesis)
 
 [comment]: # (By the way, you can't use the link syntax with brackets and parentheses in comments. You also need an empty line before hand. See https://stackoverflow.com/a/32190021)
 

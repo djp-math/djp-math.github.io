@@ -10,6 +10,9 @@ body {
   color: #000000;
 }
 
+/* makes the color when hovering over a link a darker blue*/
+/* the "bold" weight makes the link expand and move text around which really annoys me*/
 a:hover,a:focus {
     color: #003C5C;
+    font-weight:normal;
 }

@@ -1,15 +1,16 @@
 # Welcome!
 
-My name is David James Pittman Jr., and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/djpittm). My advisor is [Dr. Brian Fralix](https://bfralix.people.clemson.edu/).
+My name is David James Pittman Jr., and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Brian Fralix](https://bfralix.people.clemson.edu/).
+
+My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/djpittm).
 
 My research area is broadly in stochastic processes. My current focus is on Pólya Urns, Pólya Urn Processes, and Generalized Pólya Processes.
 I have also done some work with matrix-analytic methods in the theory of Markov chains, particularly using the random product technique developed by Patrick Buckingham and Brian Fralix.
 
 To contact me, please email me at djpittm@clemson.edu.
 
-This is a link to another page: [click here](https://djp-math.github.io/page.html).
 
-A PDF copy of my CV can be found here: [CV](https://djp-math.github.io/CV_draft_2pages.pdf)
+[comment]: # (This is an example of a link to another HTML page which does work. '''This is a link to another page: [click here](https://djp-math.github.io/page.html).''')
 
 # Educational Background
 

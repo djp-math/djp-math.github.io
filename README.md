@@ -10,7 +10,12 @@ I have also done some work with matrix-analytic methods in the theory of Markov 
 To contact me, please email me at djpittm@clemson.edu.
 
 
-[comment]: # (This is an example of a link to another HTML page which does work. '''This is a link to another page: [click here](https://djp-math.github.io/page.html).''')
+[comment]: # (This is an example of a link to another HTML page which does work. '''This is a link to another page: left-bracket click here right-bracket left-parenthesis https://djp-math.github.io/page.html right-parenthesis.''')
+
+This is a link to another page, written in Markdown: [click here](https://djp-math.github.io/page.md)
+
+[comment]: # (By the way, you can't use the link syntax with brackets and parentheses in comments. You also need an empty line before hand. See https://stackoverflow.com/a/32190021)
+
 
 # Educational Background
 

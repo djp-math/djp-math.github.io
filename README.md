@@ -17,6 +17,7 @@ You can contact me by emailing me at djpittm@clemson.edu.
 My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is May 2027. 
 
 # Teaching Experience
+My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3rdDraft.pdf)
 ## Graduate Teaching Assistant
 - STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
 - MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
@@ -29,23 +30,41 @@ My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson 
 # Research Papers
 
 ## Submitted or Undergoing Revisions
-- "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications," joint work with Brian Fralix. Undergoing revisions.
+- Pittman, D. and Fralix, B.
+
+  "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications."
+  
+  Undergoing revisions.
 
 ## To be Submitted
-- "Multivariate Generalized Pólya Processes and Related Models," joint work with Brian Fralix. To be submitted.
-- "On the time-dependent behavior of various types of continuous-time Pólya-like random walks," joint work with Brian Fralix. To be submitted.
+- Pittman, D., Fralix, B., and Kharoufeh, J. 
+
+  "Multivariate Generalized Pólya Processes and Related Models"
+
+  To be submitted.
+- Pittman, D. and Fralix, B.
+
+  "On the time-dependent behavior of various types of continuous-time Pólya-like random walks."
+
+  To be submitted.
 
 # Research Presentations
 All talks listed were given by D. Pittman.
 ## Invited Talks
 - Pittman, D. and Fralix, B.
+  
   "Calculating the Stationary Distribution of a Markov Chain by Decomposing its Set of Global Balance Equations"
+
   Joint Mathematics Meetings 2025, Seattle, January 8-11
 - Pittman, D. and Fralix, B.
+  
   "A New Look at the Pólya Urn Process"
+
   Joint Mathematics Meeting 2027, Chicago, January 12-15
   
 ## Contributed Talks
 - Pittman, D. and Fralix, B.
+  
   "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications"
+
   22nd INFORMS Applied Probability Society Conference 2025, Atlanta, June 30 - July 3

@@ -20,6 +20,7 @@ My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson 
 ## Graduate Teaching Assistant
 - STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
 - MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
+- 
 ## Graduate Instructor of Record
 - MATH 1030 (Elementary Functions) - Fall 2023, Fall 2024
 - MATH 1060 (Calculus of One Variable I) - Fall 2025
@@ -43,6 +44,7 @@ All talks listed were given by D. Pittman.
 - Pittman, D. and Fralix, B.
   "A New Look at the Pólya Urn Process"
   Joint Mathematics Meeting 2027, Chicago, January 12-15
+  
 ## Contributed Talks
 - Pittman, D. and Fralix, B.
   "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications"

@@ -1,7 +1,23 @@
-One issue with links is that they expand which moves the text around. I could either disable the expanding, 
+I) Link expanding
+
+ISSUE: One issue with links is that they expand which moves the text around. I could either disable the expanding, 
 or I could make it so that links are on their own lines,
 or I could just hard code any links so that they when they expand, they don't move text to the next line
 
 (Probably best to just get rid of the expanding)
 
-Another issue is the picture of me I think makes the site take a long time to load
+RESOLVED: The issue was that the ''font-weight'' was set to bold on hover/focus for links; I fixed this by adding some CSS to the end of the CSS file that makes the ''font-weight: normal'' (and I also made the color darker on hover)
+
+II) Website slow to load?
+
+Another issue is the picture of me I think makes the site take a long time to load. (I tried opening the website on Edge (which I hadn't done before) and it seemed to load fine?)
+
+III) For Future Reference on Expanding this website
+
+You can add pages to the website with html or md files.
+
+If you code in html directly, you can directly link to the html files. If you code in Markdown, you need to link to the same name but replace the extension with html instead of md (it doesn't work otherwise).
+
+Probably obvious, put getting links like djp-math.github.io/favorites/japanese.html can be done by making a folder named favorites in the main directly and putting japanese.html (or japanese.md) into it. 
+
+

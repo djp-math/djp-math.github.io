@@ -20,4 +20,18 @@ If you code in html directly, you can directly link to the html files. If you co
 
 Probably obvious, put getting links like djp-math.github.io/favorites/japanese.html can be done by making a folder named favorites in the main directly and putting japanese.html (or japanese.md) into it. 
 
+This is an example of a link to another HTML page which does work. '''This is a link to another page: [click here](https://djp-math.github.io/page.html).'''
+
+To make a page in Markdown, make the file a md file but link to an html file. Linking directly to an md file doesn't seem to work. Directly linking to html files does work. An example, where the original file is page2.md : '''This is a link to another page, written in Markdown: [click here](./page2.html).'''
+
+I had some pages trying these out but I deleted them.
+
+IV) Comments in Markdown
+
+By the way, you can't use the link syntax with brackets and parentheses in comments. You also need an empty line before hand. See https://stackoverflow.com/a/32190021
+
+Actually, the comment syntax listed at that link doesn't work when you actually look at the website (it does work as in it doesn't show the comment on the built-in editor, but when you publish the page and then go to the webpage itself it will show the comment)
+
+Maybe the usual HTML style works?
+
 

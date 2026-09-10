@@ -29,14 +29,16 @@ My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3r
 
 # Research Papers
 
-## Submitted or Undergoing Revisions
+## Submitted or Under Revision
 - Pittman, D. and Fralix, B.
 
   "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications."
   
   Undergoing revisions.
 
-## To be Submitted
+  A link to a pre-print can be found here: [Open PDF](PittmanFralix23Jan2025.pdf)
+
+## In Preparation
 - Pittman, D., Fralix, B., and Kharoufeh, J. 
 
   "Multivariate Generalized Pólya Processes and Related Models"

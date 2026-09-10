@@ -14,7 +14,7 @@ You can contact me by emailing me at djpittm@clemson.edu.
 - B.S., Mathematics, Bob Jones University (December 2021)
 - M.S., Mathematical Sciences, Clemson University (December 2023)
 
-My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is May 2027. 
+My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is August 2027. 
 
 # Teaching Experience
 My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3rdDraft.pdf)

@@ -28,7 +28,7 @@ My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3r
 - MATH 1080 (Calculus of One Variable II) - Spring 2026, Fall 2026
 
 # Research Papers
-
+My research statement can be found here: [Open PDF](ResearchStatement_Pittman_SecondDraftEdited.pdf)
 ## Submitted or Under Revision
 - Pittman, D. and Fralix, B.
 

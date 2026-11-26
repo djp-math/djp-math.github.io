@@ -8,11 +8,7 @@ or I could just hard code any links so that they when they expand, they don't mo
 
 RESOLVED: The issue was that the ''font-weight'' was set to bold on hover/focus for links; I fixed this by adding some CSS to the end of the CSS file that makes the ''font-weight: normal'' (and I also made the color darker on hover)
 
-II) Website slow to load?
-
-Another issue is the picture of me I think makes the site take a long time to load. (I tried opening the website on Edge (which I hadn't done before) and it seemed to load fine?)
-
-III) For Future Reference on Expanding this website
+II) For Future Reference on Expanding this website
 
 You can add pages to the website with html or md files.
 
@@ -26,12 +22,10 @@ To make a page in Markdown, make the file a md file but link to an html file. Li
 
 I had some pages trying these out but I deleted them.
 
-IV) Comments in Markdown
+III) Comments in Markdown
 
 By the way, you can't use the link syntax with brackets and parentheses in comments. You also need an empty line before hand. See https://stackoverflow.com/a/32190021
 
 Actually, the comment syntax listed at that link doesn't work when you actually look at the website (it does work as in it doesn't show the comment on the built-in editor, but when you publish the page and then go to the webpage itself it will show the comment)
-
-Maybe the usual HTML style works?
 
 

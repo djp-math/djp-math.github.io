@@ -2,8 +2,6 @@
 
 My name is David James Pittman Jr., and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Brian Fralix](https://bfralix.people.clemson.edu/).
 
-My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/djpittm).
-
 # Research Interests
 
 My research area is broadly in stochastic processes. My most recent work has been on the Generalized Pólya Process and Pólya Urns and Pólya Urn Processes. I have analyzed this models by using a branching-type interpretation to find moments and transforms using a new method.

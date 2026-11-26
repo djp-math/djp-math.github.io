@@ -7,7 +7,7 @@ You can contact me by emailing me at djpittm@clemson.edu.
 # Research Interests
 
 My research area is broadly in stochastic processes. My most recent work has been on the Generalized Pólya Process and Pólya Urns and Pólya Urn Processes. I analyzed these models by using a branching-type interpretation and conditioning to find moments and transforms using a new method.
-I have also done some work in the theory of Markov chains. In particular, using the random product technique developed by Patrick Buckingham and Brian Fralix inspired by techniques in matrix-analytic methods, Brian Fralix and I established a new way of calculating the stationary distribution of Markov chain by expressing it as a linear combination of certain measures (and how to calculate those measures as well).
+I have also done some work in the theory of Markov chains. In particular, using the random product technique developed by Patrick Buckingham and Brian Fralix inspired by techniques in matrix-analytic methods, Brian Fralix and I established a new way of calculating the stationary distribution of a Markov chain by expressing it as a linear combination of certain measures (and how to calculate those measures as well).
 
 # Useful Materials
 
@@ -74,7 +74,7 @@ All talks listed were or will be given by D. Pittman.
 
   "A New Look at the Pólya Urn Process"
 
-  Joint Mathematics Meeting 2027, Chicago, January 12-15 **(Upcoming)**
+  Joint Mathematics Meetings 2027, Chicago, January 12-15 **(Upcoming)**
 
 * Pittman, D. and Fralix, B.
 

@@ -2,12 +2,12 @@
 
 My name is David James Pittman Jr., and I am currently working on a Ph.D. in the [School of Mathematical and Statistical Sciences](https://www.clemson.edu/science/academics/departments/mathstat/) at Clemson University. My Ph.D. advisor is [Dr. Brian Fralix](https://bfralix.people.clemson.edu/).
 
+You can contact me by emailing me at djpittm@clemson.edu.
+
 # Research Interests
 
-My research area is broadly in stochastic processes. My most recent work has been on the Generalized Pólya Process and Pólya Urns and Pólya Urn Processes. I have analyzed this models by using a branching-type interpretation to find moments and transforms using a new method.
+My research area is broadly in stochastic processes. My most recent work has been on the Generalized Pólya Process and Pólya Urns and Pólya Urn Processes. I analyzed these models by using a branching-type interpretation and conditioning to find moments and transforms using a new method.
 I have also done some work in the theory of Markov chains. In particular, using the random product technique developed by Patrick Buckingham and Brian Fralix inspired by techniques in matrix-analytic methods, Brian Fralix and I established a new way of calculating the stationary distribution of Markov chain by expressing it as a linear combination of certain measures (and how to calculate those measures as well).
-
-You can contact me by emailing me at djpittm@clemson.edu.
 
 # Useful Materials
 

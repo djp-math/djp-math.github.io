@@ -17,7 +17,7 @@ All links in this section are PDF files hosted on this website.
 * [Research Statement](CurrentFiles/ResearchStatement_Pittman_5pages.pdf)
 * [Teaching Statement](CurrentFiles/TeachingStatement_Pittman_2pages.pdf)
 
-A shorter version of my teaching statement may be found here: [Research Statement (2 pages)](CurrentFiles/ResearchStatement_Pittman_2pages.pdf)
+A shorter version of my research statement may be found here: [Research Statement (2 pages)](CurrentFiles/ResearchStatement_Pittman_2pages.pdf)
 
 # Educational Background
 

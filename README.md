@@ -4,69 +4,91 @@ My name is David James Pittman Jr., and I am currently working on a Ph.D. in the
 
 My Clemson Profile page may be found [here](https://www.clemson.edu/science/academics/departments/mathstat/about/profiles/djpittm).
 
-My research area is broadly in stochastic processes. My current focus is on Pólya Urns, Pólya Urn Processes, and Generalized Pólya Processes.
-I have also done some work with matrix-analytic methods in the theory of Markov chains, particularly using the random product technique developed by Patrick Buckingham and Brian Fralix.
+# Research Interests
+
+My research area is broadly in stochastic processes. My most recent work has been on the Generalized Pólya Process and Pólya Urns and Pólya Urn Processes. I have analyzed this models by using a branching-type interpretation to find moments and transforms using a new method.
+I have also done some work in the theory of Markov chains. In particular, using the random product technique developed by Patrick Buckingham and Brian Fralix inspired by techniques in matrix-analytic methods, Brian Fralix and I established a new way of calculating the stationary distribution of Markov chain by expressing it as a linear combination of certain measures (and how to calculate those measures as well).
 
 You can contact me by emailing me at djpittm@clemson.edu.
 
+# Useful Materials
+
+All links in this section are PDF files hosted on this website.
+
+* [Curriculum Vitae](CurrentFiles/CV_Pittman_3pages_withoutReferences.pdf)
+* [Research Statement](CurrentFiles/ResearchStatement_Pittman_5pages.pdf)
+* [Teaching Statement](CurrentFiles/TeachingStatement_Pittman_2pages.pdf)
+
+A shorter version of my teaching statement may be found here: [Research Statement (2 pages)](CurrentFiles/ResearchStatement_Pittman_2pages.pdf)
+
 # Educational Background
 
-- B.S., Mathematics, Bob Jones University (December 2021)
-- M.S., Mathematical Sciences, Clemson University (December 2023)
-
-My expected graduation date for the Ph.D. in Mathematical Sciences from Clemson University is August 2027. 
+* B.S., Mathematics, Bob Jones University (December 2021)
+* M.S., Mathematical Sciences, Clemson University (December 2023)
+* Ph.D., Mathematical Sciences, Clemson University (Expected August 5, 2027)
 
 # Teaching Experience
-My teaching statement can be found here: [Open PDF](TeachingStatement_Pittman_3rdDraft.pdf)
+
 ## Graduate Teaching Assistant
-- STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
-- MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
-  
+
+* STAT 2301 (Statistical Methods I Laboratory) - Spring 2022
+* MATH 1981 (College Algebra Lab) - Summer 2022, Summer 2023
+
 ## Graduate Instructor of Record
-- MATH 1030 (Elementary Functions) - Fall 2023, Fall 2024
-- MATH 1060 (Calculus of One Variable I) - Fall 2025
-- MATH 1080 (Calculus of One Variable II) - Spring 2026, Fall 2026
+
+* MATH 1030 (Elementary Functions) - Fall 2023, Fall 2024
+* MATH 1060 (Calculus of One Variable I) - Fall 2025
+* MATH 1080 (Calculus of One Variable II) - Spring 2026, Fall 2026
 
 # Research Papers
-My research statement can be found here: [Open PDF](ResearchStatement_Pittman_SecondDraftEdited.pdf)
+
 ## Submitted or Under Revision
-- Pittman, D. and Fralix, B.
+
+* Pittman, D. and Fralix, B.
 
   "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications."
-  
+
   Undergoing revisions.
 
   A link to a pre-print can be found here: [Open PDF](PittmanFralix23Jan2025.pdf)
 
 ## In Preparation
-- Pittman, D., Fralix, B., and Kharoufeh, J. 
+
+* Pittman, D. and Fralix B.
 
   "Multivariate Generalized Pólya Processes and Related Models"
 
-  To be submitted.
-- Pittman, D. and Fralix, B.
+  Manuscript in preparation.
+
+* Pittman, D. and Fralix, B.
 
   "On the time-dependent behavior of various types of continuous-time Pólya-like random walks."
 
-  To be submitted.
+  Manuscript in preparation.
 
-# Research Presentations
-All talks listed were given by D. Pittman.
+# Selected Research Presentations
+
+All talks listed were or will be given by D. Pittman.
+
 ## Invited Talks
-- Pittman, D. and Fralix, B.
-  
+
+* Pittman, D. and Fralix, B.
+
+  "A New Look at the Pólya Urn Process"
+
+  Joint Mathematics Meeting 2027, Chicago, January 12-15 **(Upcoming)**
+
+* Pittman, D. and Fralix, B.
+
   "Calculating the Stationary Distribution of a Markov Chain by Decomposing its Set of Global Balance Equations"
 
   Joint Mathematics Meetings 2025, Seattle, January 8-11
-- Pittman, D. and Fralix, B.
-  
-  "A New Look at the Pólya Urn Process"
 
-  Joint Mathematics Meeting 2027, Chicago, January 12-15
-  
 ## Contributed Talks
-- Pittman, D. and Fralix, B.
-  
+
+* Pittman, D. and Fralix, B.
+
   "A Fresh Look at Calculating the Stationary Distribution of a Markov Chain, with Applications"
 
   22nd INFORMS Applied Probability Society Conference 2025, Atlanta, June 30 - July 3
+
